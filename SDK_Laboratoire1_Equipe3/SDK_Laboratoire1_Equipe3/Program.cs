@@ -14,7 +14,8 @@
     while (true)
     {
         Console.Write("Convertisseur de note: ");
-        Console.Write(C1.TransformationNote(Console.ReadKey()));
+        ConsoleKeyInfo keyPress = Console.ReadKey(intercept: true);
+        Console.WriteLine(C1.TransformationNote(keyPress.KeyChar.ToString().ToUpper()));
     }
 
 
