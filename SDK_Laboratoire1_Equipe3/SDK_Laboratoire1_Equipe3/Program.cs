@@ -1,7 +1,4 @@
-﻿using SDK_Laboratoire1_Equipe3;
-
-
-    
+using SDK_Laboratoire1_Equipe3;
     string choix = "ab";
     ConversionAlphabetiqueToNote C1 = new ConversionAlphabetiqueToNote();
 
