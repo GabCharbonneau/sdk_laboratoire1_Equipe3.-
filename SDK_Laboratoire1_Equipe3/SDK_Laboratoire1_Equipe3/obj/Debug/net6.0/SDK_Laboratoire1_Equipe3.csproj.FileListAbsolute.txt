@@ -1,0 +1,15 @@
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.csproj.AssemblyReference.cache
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.AssemblyInfoInputs.cache
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.AssemblyInfo.cs
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.csproj.CoreCompileInputs.cache
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\bin\Debug\net6.0\SDK_Laboratoire1_Equipe3.exe
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\bin\Debug\net6.0\SDK_Laboratoire1_Equipe3.deps.json
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\bin\Debug\net6.0\SDK_Laboratoire1_Equipe3.runtimeconfig.json
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\bin\Debug\net6.0\SDK_Laboratoire1_Equipe3.dll
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\bin\Debug\net6.0\ref\SDK_Laboratoire1_Equipe3.dll
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\bin\Debug\net6.0\SDK_Laboratoire1_Equipe3.pdb
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.dll
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\ref\SDK_Laboratoire1_Equipe3.dll
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.pdb
+C:\SDK\sdk_laboratoire1_Equipe3.-\SDK_Laboratoire1_Equipe3\SDK_Laboratoire1_Equipe3\obj\Debug\net6.0\SDK_Laboratoire1_Equipe3.genruntimeconfig.cache
