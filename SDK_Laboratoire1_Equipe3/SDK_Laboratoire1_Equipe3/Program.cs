@@ -17,7 +17,3 @@
         ConsoleKeyInfo keyPress = Console.ReadKey(intercept: true);
         Console.WriteLine(C1.TransformationNote(keyPress.KeyChar.ToString().ToUpper()));
     }
-
-
-
-
