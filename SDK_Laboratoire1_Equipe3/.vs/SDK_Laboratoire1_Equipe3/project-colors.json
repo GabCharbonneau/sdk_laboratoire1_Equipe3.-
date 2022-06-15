@@ -5,6 +5,11 @@
       "ProjectGuid": "e46c3f25-20e7-4d80-a931-4008b213c2d9",
       "DisplayName": "SDK_Laboratoire1_Equipe3",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

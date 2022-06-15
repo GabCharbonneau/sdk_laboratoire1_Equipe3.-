@@ -2,7 +2,6 @@
 {
     public class ConversionAlphabetiqueToNote
     {
-        
         public string TransformationNote(string entree)
         {
             switch (entree)
